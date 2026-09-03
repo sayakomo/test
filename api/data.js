@@ -17,7 +17,7 @@ export default function handler(req, res) {
         ID: Versi || "",
         Device: Device || "",
         Versi: Type || "",
-        Admin: "Telegram @KopiNih",
+        Admin: "Telegram @b374a",
         Expired: "04-09-2029",
         ON: false,
         OFF: false,

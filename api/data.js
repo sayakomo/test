@@ -18,9 +18,9 @@ export default function handler(req, res) {
         Device: Device || "",
         Versi: Type || "",
         Admin: "Telegram @KopiNih",
-        Expired: "04-09-2026",
-        ON: true,
-        OFF: true,
+        Expired: "04-09-2029",
+        ON: false,
+        OFF: false,
         BUS: "ca-app-pub-6654559110094293/5995432864",
         MRT: "ca-app-pub-6654559110094293/6051273181#"
       }
